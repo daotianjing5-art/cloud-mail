@@ -1,4 +1,4 @@
-<p align="center">1
+<p align="center">
     <img src="doc/demo/logo.png" width="80px" />
     <h1 align="center">Cloud Mail</h1>
     <p align="center"><strong>基于 Cloudflare 的一站式邮箱服务平台</strong></p>
